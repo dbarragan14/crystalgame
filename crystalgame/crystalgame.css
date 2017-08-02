@@ -1,0 +1,44 @@
+body{
+	background-color: #CD5C5C;
+}
+#crystal1{
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+}
+#crystal2{
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+}
+#crystal3{
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+}
+#crystal4{
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+}
+#randomNumber{
+	background-color: #F08080;
+	height: 100px;
+	width: 400px;
+	display: inline-block;
+
+
+}
+#score{
+	width: 100px;
+	height: 100px;
+	background-color: #FA8072;
+	display: inline-block;
+
+}
+#userScore{
+	width: 100px;
+	height: 100px;
+	background-color: #E9967A;
+
+}
